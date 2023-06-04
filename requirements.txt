@@ -1,5 +1,10 @@
 jupyter~=1.0.0
-scikit-learn==1.2.2
-pandas==2.0.1
-pyarrow==12.0.0
-black==23.3.0
+scikit-learn
+pandas
+pyarrow
+black
+mlflow
+seaborn
+hyperopt
+xgboost
+optuna
